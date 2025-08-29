@@ -280,7 +280,7 @@ details article {
     background: var(--red);
     display: inline-block;
     width: 0.5em;
-    height: 0.9em;
+    height: 0.7em;
     /* border-top-left-radius: 100%; */
     margin-inline-end: 0.25rem;
   }
